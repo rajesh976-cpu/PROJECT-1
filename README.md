@@ -1,2 +1,1 @@
-# WEBSITE_PROJECTS
- CAR_DEALERSHIP
+# coding-project-template
